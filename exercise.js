@@ -1,6 +1,6 @@
 // Instructions: 10 points
 // 1. Create a superclass called Employee
-// 2. Add a constructor that takes in a name, salary, and hireDate
+// 2. Add a constructor that takes in a name, salary, and hireDate. Create setter and getter methods for each property
 // 3. Add a method called introduction that returns name, salary, and hireDate in a sentence
 // 4. Create an instance called employee1 with your name, salary, and hireDate
 // 5. Call the introduction method and output on the console
