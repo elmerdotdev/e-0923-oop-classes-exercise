@@ -8,7 +8,8 @@
 // 7. Using a constructor, create a new property called teamSize. Make sure to call the super method to inherit properties from the Employee class
 // 8. Create a method called teamIntroduction that returns the introduction method from the Employee class, but also adds teamSize to the sentence. Use super to override the introduction method from the Employee class
 // 9. Create an instance of Manager called manager1 with your own name, salary, hireDate, and teamSize
-// 10. Call the teamIntroduction method and output on the console
+// 10. Using a setter, change the salary to a diffierent amount
+// 11. Call the teamIntroduction method and output on the console
 
 class Employee {
 
